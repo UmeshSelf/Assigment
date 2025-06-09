@@ -1,7 +1,7 @@
 package demo;
 
-public class Scenaio_one {
-    import org.apache.http.HttpResponse;
+
+   import org.apache.http.HttpResponse;
 import org.apache.http.client.HttpClient;
 import org.apache.http.client.methods.HttpPost;
 import org.apache.http.entity.StringEntity;
@@ -79,4 +79,4 @@ import static org.junit.Assert.assertEquals;
         // Additional test cases can be added for different scenarios
     }
 
-}
+
